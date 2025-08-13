@@ -1,4 +1,4 @@
-# 📌 Machine Learning Model for Data Prediction
+# 📌 Artificial Neural Network Model for Data Prediction
 
 This repository contains a machine learning model designed to analyze data and make accurate predictions using advanced statistical and AI techniques.  
 The workflow includes:
